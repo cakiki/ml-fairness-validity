@@ -1,0 +1,150 @@
+Migration.Integration.Regionen;;;;;
+Erlaeuterung der Inhalte der für die interaktive Karte verwendeten Daten-Datei;;;;;
+https://service.destatis.de/DE/karten/data/migration_integration_regionen_daten.tsv;;;;;
+Spalte;Inhalt;Maßeinheit;Zeit;Datenquelle;"Klassengrenzen
+(Quantile)1"
+RS;Regionalschlssel;;31.12.2016;"Amtlicher Gemeinde-schlssel (AGS), 
+5-Steller (Kreise und kreisfreie Staedte)";Bitte beachten Sie die Hinweise unten.
+NAME;Name des Landkreises / der kreisfreien Stadt;;31.12.2016;;-
+INSGESAMT;Bevölkerung insgesamt;Anzahl;Stichtag 31.12.2017;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+INSG_M;Bevölkerung insgesamt männlich;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+INSG_W;Bevölkerung insgesamt weiblich;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AUSL_INSG;Ausländer insgesamt;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AUSL_M;Ausländer insgesamt männlich;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AUSL_W;Ausländer insgesamt weiblich;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IIU6;Bevölkerung insgesamt unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IMU6;Bevölkerung männlich, unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IWU6;Bevölkerung weiblich, unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DIU6;Bevölkerung Deutsche insgesamt unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DMU6;Bevölkerung Deutsche männlich unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DWU6;Bevölkerung Deutsche weiblich unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AIU6;Bevölkerung Ausländer insgesamt unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AMU6;Bevölkerung Ausländer männlich unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AWU6;Bevölkerung Ausländer weiblich unter 6 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+II6BU15;Bevölkerung insgesamt, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IM6BU15;Bevölkerung männlich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IW6BU15;Bevölkerung weiblich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DI6BU15;Bevölkerung Deutsche insgesamt, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DM6BU15;Bevölkerung Deutsche männlich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DW6BU15;Bevölkerung Deutsche weiblich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AI6BU15;Bevölkerung Ausländer insgesamt, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AM6BU15;Bevölkerung Ausländer männlich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AW6BU15;Bevölkerung Ausländer weiblich, 6 bis unter 15 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+II15BU65;Bevölkerung insgesamt, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IM15BU65;Bevölkerung männlich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IW15BU65;Bevölkerung weiblich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DI15BU65;Bevölkerung Deutsche insgesamt, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DM15BU65;Bevölkerung Deutsche männlich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DW15BU65;Bevölkerung Deutsche weiblich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AI15BU65;Bevölkerung Ausländer insgesamt, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AM15BU65;Bevölkerung Ausländer männlich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AW15BU65;Bevölkerung Ausländer weiblich, 15 bis unter 65 Jahren;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+II65UM;Bevölkerung insgesamt, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IM65UM;Bevölkerung männlich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+IW65UM;Bevölkerung weiblich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DI65UM;Bevölkerung Deutsche insgesamt, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DM65UM;Bevölkerung Deutsche männlich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+DW65UM;Bevölkerung Deutsche weiblich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AI65UM;Bevölkerung Ausländer insgesamt, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AM65UM;Bevölkerung Ausländer männlich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+AW65UM;Bevölkerung Ausländer weiblich, 65 Jahre und älter;Anzahl;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;-
+ANT_AI;Anteil der Ausländer insgesamt an der Bevölkerung insgesamt;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AM;Anteil der Ausländer männlich an der Bevölkerung männlich;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AW;Anteil der Ausländer weiblich an der Bevölkerung weiblich;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AIU6;Anteil der Ausländer unter 6 Jahren an der Bevölkerung unter 6 Jahren;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AMU6;Anteil der Ausländer männlich unter 6 Jahren an der Bevölkerung männlich unter 6 Jahren;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AWU6;Anteil der Ausländer weiblich unter 6 Jahren an der Bevölkerung weiblich unter 6 Jahren;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AI6BU15;Anteil der Ausländer, 6 bis unter 15 Jahre an der Bevölkerung, 6 bis unter 15 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AM6BU15;Anteil der Ausländer männlich, 6 bis unter 15 Jahre an der Bevölkerung männlich, 6 bis unter 15 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AW6BU15;Anteil der Ausländer weiblich, 6 bis unter 15 Jahre an der Bevölkerung weiblich, 6 bis unter 15 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AI15BU65;Anteil der Ausländer, 15 bis unter 65 Jahre an der Bevölkerung, 15 bis unter 65 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AM15BU65;Anteil der Ausländer männlich, 15 bis unter 65 Jahre an der Bevölkerung männlich, 15 bis unter 65 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AW15BU65;Anteil der Ausländer weiblich, 15 bis unter 65 Jahre an der Bevölkerung weiblich, 15 bis unter 65 Jahre;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AI65UM;Anteil der Ausländer, 65 Jahre und älter an der Bevölkerung, 65 Jahre und älter;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AM65UM;Anteil der Ausländer männlich, 65 Jahre und älter an der Bevölkerung männlich, 65 Jahre und älter;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ANT_AW65UM;Anteil der Ausländer weiblich, 65 Jahre und älter an der Bevölkerung weiblich, 65 Jahre und älter;%;Stichtag 31.12.2018;Statistisches Bundesamt (Destatis), Fortschreibung des Bevölkerungsstandes;[4.25,7,9.25,11.75,15.25]
+ARBSUCH_FLUMI_ABSOLUT;Bestand an Arbeitsuchenden (Flucht und Migration);Anzahl;Dezember 2019;Statistik der Bundesagentur für Arbeit;-
+ANT_ARBS_FLUMI;Anteil Arbeitsuchender (Flucht und Migration) an allen Arbeitsuchenden;%;Dezember 2019;Statistik der Bundesagentur für Arbeit;[6.2,8.7,10.1,11.7,13.8]
+ALQ_AUSL;Arbeitslosenquoten von Ausländern (eingeschraenkte Bezugsgroesse) (nach Mig-Monitor);%;Dezember 2018;Statistik der Bundesagentur für Arbeit;[6.8,8.7,11.7,15.1,18.4]
+ARBSUCH_INSG_ABSOLUT;Bestand an Arbeitsuchenden;Anzahl;Dezember 2019;Statistik der Bundesagentur für Arbeit;-
+SOZ_INS;Sozialversicherungspflichtig Beschäftigte insgesamt am Wohnort;Anzahl;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;-
+SOZ_AUS;Sozialversicherungspflichtig Beschäftigte Ausländer am Wohnort;Anzahl;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;-
+ANT_SOZ_AUS;Anteil sozialversicherungspflichtig Beschäftigter Ausländer;%;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;[4.6,7.2,9.4,12.,16.2]
+BESCHQ_INS;Beschäftigungsquoten insgesamt;%;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;-
+BESCHQ_AUS;Beschäftigungsquoten Ausländer;%;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;[40.5,44.4,48.9,54.2,58.7]
+BESCH_AUS_ABSOLUT;Beschäftigte Ausländer;Anzahl;Stichtag 30.6.2019;Statistik der Bundesagentur für Arbeit;-
+ARBLOS_INSG;Bestand an Arbeitslosen insgesamt;Anzahl;Dezember 2019;Statistik der Bundesagentur für Arbeit;-
+ARBLOS_AUSL;Bestand an Arbeitslosen Ausländern;Anzahl;Dezember 2018;Statistik der Bundesagentur für Arbeit;-
+AZR_INSG;Ausländer insgesamt;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_EU28_AUSL;EU-Ausländer (EU-28);Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_NICHTEU_AUSL;Nicht-EU-Ausländer;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_GASTARB;Ausländer aus den Gastarbeiter-Anwerbestaaten;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_OST2004;Ausländer aus den seit 2004 der EU beigetretenen Staaten (EU-Osterweiterung);Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ANT_EU28_AUSL;Anteil der EU-Ausländer an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[33.6,39.0,44.6,49.0,55.4]
+AZR_ANT_NICHTEU_AUSL;Anteil der Nicht-EU-Ausländer an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[44.7,51.0,55.4,61.0,66.4]
+AZR_ANT_GASTARB;Anteil der Ausländer aus den Gastarbeiter-Anwerbestaaten an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[13.9,24.0,31.3,36.8,45.0]
+AZR_ANT_OST2004;Anteil der Ausländer aus den seit 2004 der EU beigetretenen Staaten (EU-Osterweiterung);%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[19.9,23.9,28.3,33.0,38.9]
+AZR_EUNIEDERL;Ausländer mit EU-Niederlassungsfreiheit;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_UNBEFR;Ausländer mit unbefristetem Aufenthaltstitel ;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_BEFR;Ausländer mit befristetem Aufenthaltstitel ;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_GESTATT;Ausländer mit Aufenthalts-Gestattung ;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_DULD;Ausländer mit Aufenthalts-Duldung ;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ANT_EUNIEDERL;Anteil der Ausländer mit EU-Niederlassungsfreiheit an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[34.6,40.4,46.0,50.3,57.2]
+AZR_ANT_UNBEFR;Anteil der Ausländer mit unbefristetem Aufenthaltstitel an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[10.6,15.4,18.4,21.6,25.6]
+AZR_ANT_BEFR;Anteil der Ausländer mit befristetem Aufenthaltstitel an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[16.3,19.5,23.9,27.1,32.3]
+AZR_ANT_GESTATT;Anteil der Ausländer mit Aufenthalts-Gestattung an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[1.2,1.8,2.3,3.3,5.1]
+AZR_ANT_DULD;Anteil der Ausländer mit Aufenthalts-Duldung an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[0.9,1.3,1.8,2.6,3.7]
+AZR_AFGHANISTAN;Afghanische Staatsangehörige;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_IRAK;Irakische  Staatsangehörige;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_SYRIEN;Syrische Staatsangehörige;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ANT_AFGHANISTAN;Anteil afghanischer Staatsangehöriger an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[1.2,1.8,2.5,3.4,5.0]
+AZR_ANT_IRAK;Anteil irakischer Staatsangehöriger an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[0.6,1.1,1.8,2.6,4.1]
+AZR_ANT_SYRIEN;Anteil syrischer Staatsangehöriger an allen Ausländern;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[4.5,6.3,8.5,10.9,14.1]
+AZR_U6;Ausländer unter 6 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_6BU15;Ausländer 6 bis unter 15 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_15BU65;Aulaender 15 bis unter 65 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_65UM;Ausländer 65 Jahre und älter;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ADU2;Ausländer Aufenthaltsdauer unter 2 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_AD2BU10;Ausländer Aufenthaltsdauer 2 bis unter 10 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_AD10BU25;Ausländer Aufenthaltsdauer 10 bis unter 25 Jahre;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_AD25UM;Ausländer Aufenthaltsdauer 25 Jahre und mehr;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ANT_U6;Anteil Ausländer unter 6 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[4.6,5.3,5.8,6.3,7.3]
+AZR_ANT_6BU15;Anteil Ausländer 6 bis unter 15 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[6.0,6.8,7.3,8.2,9.3]
+AZR_ANT_15BU65;Anteil Aulaender 15 bis unter 65 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[73.2,74.4,75.6,76.8,78.1]
+AZR_ANT_65UM;Anteil Ausländer 65 Jahre und älter;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[3.9,6.2,7.6,8.8,9.8]
+AZR_ANT_ADU2;Anteil Ausländer Aufenthaltsdauer unter 2 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[11.8,13.5,14.8,17.4,20.4]
+AZR_ANT_AD2BU10;Anteil Ausländer Aufenthaltsdauer 2 bis unter 10 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[39.5,42.5,45.8,49.8,53.9]
+AZR_ANT_AD10BU25;Anteil Ausländer Aufenthaltsdauer 10 bis unter 25 Jahre;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[14.9,16.5,17.7,18.7,19.9]
+AZR_ANT_AD25UM;Anteil Ausländer Aufenthaltsdauer 25 Jahre und mehr;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[8.0,15.7,20.5,25.0,29.1]
+AZR_ERWERBW;Ausländer/-innen mit Aufenthaltstitel zum Zwecke der Erwerbstätigkeit;Anzahl;Stichtag 31.12.2019;Ausländerzentralregister (AZR);-
+AZR_ANT_ERWERB;Anteil Ausländer/-innen mit Aufenthaltstitel zum Zwecke der Erwerbstätigkeit;%;Stichtag 31.12.2019;Ausländerzentralregister (AZR);[1.1,1.4,1.7,2.1,2.5]
+SCH_I_2016;Schutzsuchende Insgesamt 2018;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_I_2014;Schutzsuchende Insgesamt 2017;Anzahl;Stichtag 31.12.2017;Ausländerzentralregister (AZR);-
+SCH_OFF;Schutzsuchende, Schutzstatus offen;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_ANERK;Schutzsuchende, Schutzstatus anerkannt;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_ABGEL;Schutzsuchende, Schutzstatus abgelehnt;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_SYRIEN;Schutzsuchende, Herkunftsland Syrien;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_AFGHANISTAN;Schutzsuchende, Herkunftsland Afghanistan;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_IRAK;Schutzsuchende, Herkunftsland Irak;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_RUSSLAND;Schutzsuchende, Herkunftsland Russische Föderation;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_IRAN;Schutzsuchende, Herkunftsland Iran;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+SCH_KOSOVO;Schutzsuchende, Herkunftsland Kosovo;Anzahl;Stichtag 31.12.2018;Ausländerzentralregister (AZR);-
+ANT_SCH_I;Anteil Schutzsuchende an der Bevölkerung insgesamt;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[1.1,1.5,1.7,2.0,2.4]
+ANT_SCH_OFF;Anteil Schutzsuchende, Schutzstatus offen, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[25,32,37.25,42.5,48.5]
+ANT_SCH_ANERK;Anteil Schutzsuchende, Schutzstatus anerkannt, an allen Schutzsuchenden;%;Stichtag 31.12.2017;Ausländerzentralregister (AZR);[41,46.25,52.75,58,67.25]
+ANT_SCH_ABGEL;Anteil Schutzsuchende, Schutzstatus abgelehnt, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[5,7,9.25,11,13.75]
+ANT_SCH_SYRIEN;Anteil Schutzsuchende, Herkunftsland Syrien, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[22,27.75,31.5,35.75,41.5]
+ANT_SCH_AFGHANISTAN;Anteil Schutzsuchende, Herkunftsland Afghanistan, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[6.75,9,11.5,14.75,19.5]
+ANT_SCH_IRAK;Anteil Schutzsuchende, Herkunftsland Irak, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[2.5,5.5,8,10,13.5]
+ANT_SCH_RUSSLAND;Anteil Schutzsuchende, Herkunftsland Russische Föderation, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[1.5,2,2.5,4,5.75]
+ANT_SCH_IRAN;Anteil Schutzsuchende, Herkunftsland Iran, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[1,2,2.5,3.25,4.5]
+ANT_SCH_KOSOVO;Anteil Schutzsuchende, Herkunftsland Kosovo, an allen Schutzsuchenden;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[1.25,2.25,3,4,5.75]
+SCH_VERAENDERUNG;Veraenderung der Zahl Schutzsuchender 2018 gegenber 2017;%;Stichtag 31.12.2018;Ausländerzentralregister (AZR);[95,113.25,132,153.25,185.75]
+kurs_begon;Begonnene Integrationskurse, ohne Wiederholerkurse;Anzahl;2017;Bundesamt für Migration und Flüchtlinge (BAMF);-
+kurs_beend;Beendete Integrationskurse, ohne Wiederholerkurse;Anzahl;2017;Bundesamt für Migration und Flüchtlinge (BAMF);-
+kurs_tnber;Neue Teilnahmeberechtigungen für Integrationskurse, ohne Spätaussiedlerinnen und Spätaussiedler und ohne Kurswiederholerinnen und -wiederholer;Anzahl;2017;Bundesamt für Migration und Flüchtlinge (BAMF);-
+kurs_tln;Anzahl der neuen Integrationskursteilnehmerinnen und -teilnehmer, ohne Kurswiederholerinnen und -wiederholer;Anzahl;2017;Bundesamt für Migration und Flüchtlinge (BAMF);-
+"1 Hinweis zu Klassengrenzen:
+Die Klassen, die die Einfärbung der regionalen Einheiten in der Farbflächenkarte bestimmen, wurden durch die Berechnung von Quantilen gebildet. Durch die damit verbundene, vom beobachteten Sachverhalt losgelöste Betrachtung der Häufigkeitsverteilung werden alle Klassen mit ähnlich vielen Fällen besetzt. In jeder der sechs Klassen sind also ungefähr gleich viele Kreise vertreten. Durch die Einteilung nach Quantilen wird eine maximale grafische Differenzierung erreicht.
+Jede angezeigte Karte hat eine individuelle Einteilung der Klassen, um der Häufigkeitsverteilung jedes einzelnen Sachverhalts gerecht zu werden. Ausnahme: Alle Karten zum Anteil der Ausländer an der Bevölkerung besitzen dieselbe Klasseneinteilung, da die Daten, auf denen sie basiert, über alle Auspraegungen (Geschlecht und Altersgruppen) hinweg eine ähnliche Verteilung zeigen.
+Es wurden fünf Klassengrenzen definiert (mit Komma getrennt, Dezimaltrenner ist der Punkt). Für eine übersichtlichere Klasseneinteilung wurden die Berechnungsergebnisse für die Quantile gerundet.";;;;;
