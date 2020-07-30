@@ -10,6 +10,6 @@ Exploring issues of fairness and validity in machine learning pipelines
 
 | Link | Description |
 | --- | ---|
-| https://service.destatis.de/DE/karten/migration_integration_regionen.html | migration data per land-/stadtkreis|  
-| https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2017/BKATabellen/bkaTabellenLaenderKreiseStaedteFaelle.html| crime statistics including no of foreign perpetrator|
+| [1](https://service.destatis.de/DE/karten/migration_integration_regionen.html) | migration data per land-/stadtkreis|  
+| [2](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2017/BKATabellen/bkaTabellenLaenderKreiseStaedteFaelle.html)| crime statistics including no of foreign perpetrator|
 
