@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:latest
+FROM jupyter/base-notebook:python-3.7.6
 
 ENV PYTHONUNBUFFERED 1
 
@@ -13,7 +13,11 @@ RUN apt-get update && apt-get install -y \
 
 USER jovyan
 
-RUN conda install panel=0.9.7 bokeh=2.1.1 tornado param colorcet holoviews=1.13.3 hvplot=0.6.0 pandas datashader
+RUN conda install panel=0.9.7 bokeh=2.1.1 tornado param colorcet holoviews=1.13.3 hvplot=0.6.0 pandas datashader scikit-learn==0.22.1 scipy==1.4.1
+
+RUN pip install 'aif360[all]'
+
+RUN pip install audit-AI
 
 WORKDIR /home/jovyan/work
 
