@@ -17,8 +17,8 @@ RUN conda install panel=0.9.7 bokeh=2.1.1 tornado param colorcet holoviews=1.13.
 
 RUN pip install 'aif360[all]'
 
-RUN pip install audit-AI
+RUN pip install facets-overview
 
 WORKDIR /home/jovyan/work
 
-CMD ["jupyter", "notebook", "--port=8888","--no-browser", "--ip=0.0.0.0"]
+CMD ["jupyter", "notebook", "--port=8888","--no-browser", "--NotebookApp.iopub_data_rate_limit=10000000","--ip=0.0.0.0"]
