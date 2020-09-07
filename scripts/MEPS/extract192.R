@@ -1,0 +1,7 @@
+install.packages("foreign")
+library(foreign)
+setwd("/r/data/MEPS")
+unzip("h192ssp.zip")
+df = read.xport("h192.ssp")
+write.csv(df, file="h192.csv", row.names=FALSE, quote=FALSE)
+file.remove("h192.ssp")
