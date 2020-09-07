@@ -1,0 +1,13 @@
+.background-img-bottom-right{
+
+    position:absolute;
+    right:10px;
+    bottom: 10px 
+}
+
+.background-img-top-left{
+
+    position:absolute;
+    left:10px;
+    top: 10px 
+}
