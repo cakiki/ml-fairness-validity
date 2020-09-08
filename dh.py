@@ -71,7 +71,7 @@ google_states = ['North Rhine-Westphalia', 'Rhineland-Palatinate', 'Saarland',
 #, 'Berlin','Mecklenburg-Vorpommern'
 
 
-def shift_days(df, days_min=0, days_max=10, drop_cases=True, drop_na=True):
+def shift_days(df, days_min=0, days_max=15, drop_cases=True, drop_na=True):
     fin=df       
     for i in range(1+days_min, days_max+1):
 
@@ -124,11 +124,11 @@ def prepare_data(all_sources=True,
            'workplaces',
            'residential', '#cases']
         df.columns = nam
-        df = shift_days(df,days_min, days_max, drop_cases, drop_na)
+        df = shift_days(df, days_min=days_min, days_max=days_max, drop_cases=drop_cases, drop_na=drop_na)
         if(states):
             df["state"]=i
         if(drop_today):
-            dat.append(df.iloc[:,9:len(df)])
+            dat.append(df.iloc[:,9:len(df.columns)])
         else:
             dat.append(df)
         
@@ -220,11 +220,13 @@ def predict_with_model(dat, regressor, scaler, iv_test, dv_test, s,  diffs=False
             y_pred["Predicted"][j] = y_pred["Predicted"][j] + y_pred["Predicted"][j-1]
 
 
-        kennzahl = hv.Div("<div align='top' style = 'margin-left: 50px; font-size: 12px;' >" +
+        y = hv.Div("<div align='top' style = 'margin-left: 50px; font-size: 12px;' >" +
                             "MAE: " + "{:.2f}".format(mae) +
                             ", MSE: " + "{:.2f}".format(mse) +
                             ", RMSE: " + "{:.2f}".format(rmse) +
                             "<div>")
+
+        kennzahl = [mae, mse, rmse]
         plots_abs.append((hv.Curve(s[i]["#cases"]).opts(title=facebook_states[i]) * hv.Curve(y_pred).opts(title=facebook_states[i])))
         nums.append(kennzahl)
           
