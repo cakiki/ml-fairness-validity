@@ -101,10 +101,10 @@ def prepare_data(all_sources=True,
                  days_min=0, 
                  drop_today=True):
 
-    google = pd.read_csv("data/Global_Mobility_Report.csv")
-    apple = pd.read_csv ("data/applemobilitytrends-2020-06-29.csv")
-    facebook = pd.read_csv ("data/movement-range-2020-08-13.txt", "\t")
-    rki = pd.read_csv ("data/RKI_COVID19.csv")
+    google = pd.read_csv("../data/Global_Mobility_Report.csv")
+    apple = pd.read_csv ("../data/applemobilitytrends-2020-06-29.csv")
+    facebook = pd.read_csv ("../data/movement-range-2020-08-13.txt", "\t")
+    rki = pd.read_csv ("../data/RKI_COVID19.csv")
 
     dat = []
 
