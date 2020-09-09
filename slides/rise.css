@@ -11,3 +11,17 @@
     left:10px;
     top: 10px 
 }
+
+.background-img-top-right{
+
+    position:absolute;
+    right:10px;
+    top: 10px 
+}
+
+.background-img-top-right2{
+
+    position:absolute;
+    right:10px;
+    top: 75px 
+}
