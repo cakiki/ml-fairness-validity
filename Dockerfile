@@ -13,9 +13,9 @@ RUN apt-get update && apt-get install -y \
 
 USER jovyan
 
-RUN conda install panel=0.9.7 bokeh=2.1.1 tornado param colorcet holoviews=1.13.3 hvplot=0.6.0 pandas datashader scikit-learn==0.22.1 scipy==1.4.1
+RUN conda install numba=0.48 panel=0.9.7 bokeh=2.1.1 tornado param colorcet holoviews=1.13.3 hvplot=0.6.0 numpy=1.18.4 pandas datashader scipy=1.4.1
 
-RUN conda install -c conda-forge rise
+RUN pip install scikit-learn==0.22.2
 
 RUN pip install 'aif360[all]'
 
